@@ -11,7 +11,11 @@ https://ghproxy.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套�
 https://ghproxy.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
+https://ghproxy.cc/https://raw.githubusercontent.com/torysuper/IPTV-P/Files/CCTV.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/torysuper/IPTV-P/Files/CNTV.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/torysuper/IPTV-P/Files/IPTV.m3u
